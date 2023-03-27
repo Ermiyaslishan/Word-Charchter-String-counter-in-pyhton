@@ -1,0 +1,27 @@
+The process of photosynthesis is one of the most important biological processes
+on Earth. It is the process by which plants, algae, and some bacteria convert light 
+energy from the sun into chemical energy in the form of glucose and oxygen. 
+This process is crucial for the survival of all living organisms, as it provides the 
+primary source of food for nearly all life on Earth.
+The process of photosynthesis takes place in the chloroplasts of plant cells. 
+Chloroplasts are small, green organelles that contain chlorophyll, the pigment
+that absorbs light energy. Chlorophyll is what gives plants their green color,
+and it is also responsible for absorbing light energy and converting it into chemical energy.
+The process of photosynthesis can be broken down into two main stages:
+the light-dependent reactions and the light-independent reactions.
+The light-dependent reactions take place in the thylakoid membrane of 
+the chloroplasts, where light energy is absorbed by chlorophyll and converted
+nto chemical energy in the form of ATP and NADPH. The ATP and NADPH are then used 
+in the light-independent reactions, also known as the Calvin cycle,
+which takes place in the stroma of the chloroplasts.
+
+
+የጥምቀት በዓል የቤተክርስቲያኒቱን ክብር በጠበቀ መልክና በሰላም እንዲከወን ኮሚቴዎች ተዋቅረው እየሰሩ እንደሚገኙ የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቤተ ክርስቲያን አሳውቃለች።
+የጥምቀት በዓል የቤተክርስቲያኒቱ መገለጫና ትልቅ በዓል በመሆኑ በዓሉን ለማስፈፀም በተለያየ ዘርፍ የተቋቋሙ የበዓሉን መርሐ ግብር በተሟላ ሁኔታ የሚያግዙ ኮሚቴዎች ተዋቅረው ስራቸውን እየሰሩ ይገኛሉ።
+ቤተክርስቲያኗ፤በዓሉ የኢትዮጵያ ብቻ ሳይሆን የዓለም ህዝብም የሚያደንቀው የቤተክርስቲያን በዓል ነው ብላለች።
+የጥምቀት በዓል የቤተክርስቲያኒቱን ክብር በጠበቀ መልክና በሰላም እንዲከወን ኮሚቴዎች ተዋቅረው እየሰሩ እንደሚገኙ የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቤተ ክርስቲያን አሳውቃለች።
+የጥምቀት በዓል የቤተክርስቲያኒቱ መገለጫና ትልቅ በዓል በመሆኑ በዓሉን ለማስፈፀም በተለያየ ዘርፍ የተቋቋሙ የበዓሉን መርሐ ግብር በተሟላ ሁኔታ የሚያግዙ ኮሚቴዎች ተዋቅረው ስራቸውን እየሰሩ ይገኛሉ።
+ቤተክርስቲያኗ፤በዓሉ የኢትዮጵያ ብቻ ሳይሆን የዓለም ህዝብም የሚያደንቀው የቤተክርስቲያን በዓል ነው ብላለች።
+የጥምቀት በዓል የቤተክርስቲያኒቱን ክብር በጠበቀ መልክና በሰላም እንዲከወን ኮሚቴዎች ተዋቅረው እየሰሩ እንደሚገኙ የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቤተ ክርስቲያን አሳውቃለች።
+የጥምቀት በዓል የቤተክርስቲያኒቱ መገለጫና ትልቅ በዓል በመሆኑ በዓሉን ለማስፈፀም በተለያየ ዘርፍ የተቋቋሙ የበዓሉን መርሐ ግብር በተሟላ ሁኔታ የሚያግዙ ኮሚቴዎች ተዋቅረው ስራቸውን እየሰሩ ይገኛሉ።
+ቤተክርስቲያኗ፤በዓሉ የኢትዮጵያ ብቻ ሳይሆን የዓለም ህዝብም የሚያደንቀው የቤተክርስቲያን በዓል ነው ብላለች።
